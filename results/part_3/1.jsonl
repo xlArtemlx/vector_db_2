@@ -1,0 +1,1407 @@
+	
+[
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 50,
+        "high": 0
+      },
+      "Usual Suspects, The (1995)",
+      4.52,
+      {
+        "low": 1783,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 745,
+        "high": 0
+      },
+      "Close Shave, A (1995)",
+      4.52,
+      {
+        "low": 657,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 904,
+        "high": 0
+      },
+      "Rear Window (1954)",
+      4.48,
+      {
+        "low": 1050,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1212,
+        "high": 0
+      },
+      "Third Man, The (1949)",
+      4.45,
+      {
+        "low": 480,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2762,
+        "high": 0
+      },
+      "Sixth Sense, The (1999)",
+      4.41,
+      {
+        "low": 2459,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 908,
+        "high": 0
+      },
+      "North by Northwest (1959)",
+      4.38,
+      {
+        "low": 1315,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 593,
+        "high": 0
+      },
+      "Silence of the Lambs, The (1991)",
+      4.35,
+      {
+        "low": 2578,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1252,
+        "high": 0
+      },
+      "Chinatown (1974)",
+      4.34,
+      {
+        "low": 1185,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1267,
+        "high": 0
+      },
+      "Manchurian Candidate, The (1962)",
+      4.33,
+      {
+        "low": 765,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2571,
+        "high": 0
+      },
+      "Matrix, The (1999)",
+      4.32,
+      {
+        "low": 2590,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2186,
+        "high": 0
+      },
+      "Strangers on a Train (1951)",
+      4.3,
+      {
+        "low": 482,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1260,
+        "high": 0
+      },
+      "M (1931)",
+      4.3,
+      {
+        "low": 308,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 930,
+        "high": 0
+      },
+      "Notorious (1946)",
+      4.29,
+      {
+        "low": 445,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 903,
+        "high": 0
+      },
+      "Vertigo (1958)",
+      4.27,
+      {
+        "low": 905,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2203,
+        "high": 0
+      },
+      "Shadow of a Doubt (1943)",
+      4.27,
+      {
+        "low": 233,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 608,
+        "high": 0
+      },
+      "Fargo (1996)",
+      4.25,
+      {
+        "low": 2513,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 678,
+        "high": 0
+      },
+      "Some Folks Call It a Sling Blade (1993)",
+      4.25,
+      {
+        "low": 306,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 3634,
+        "high": 0
+      },
+      "Seven Days in May (1964)",
+      4.25,
+      {
+        "low": 165,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1617,
+        "high": 0
+      },
+      "L.A. Confidential (1997)",
+      4.22,
+      {
+        "low": 2288,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1219,
+        "high": 0
+      },
+      "Psycho (1960)",
+      4.22,
+      {
+        "low": 1263,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1248,
+        "high": 0
+      },
+      "Touch of Evil (1958)",
+      4.22,
+      {
+        "low": 514,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1358,
+        "high": 0
+      },
+      "Sling Blade (1996)",
+      4.21,
+      {
+        "low": 1177,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 928,
+        "high": 0
+      },
+      "Rebecca (1940)",
+      4.2,
+      {
+        "low": 386,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1218,
+        "high": 0
+      },
+      "Killer, The (Die xue shuang xiong) (1989)",
+      4.2,
+      {
+        "low": 244,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2208,
+        "high": 0
+      },
+      "Lady Vanishes, The (1938)",
+      4.19,
+      {
+        "low": 199,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 111,
+        "high": 0
+      },
+      "Taxi Driver (1976)",
+      4.18,
+      {
+        "low": 1240,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 911,
+        "high": 0
+      },
+      "Charade (1963)",
+      4.18,
+      {
+        "low": 306,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1269,
+        "high": 0
+      },
+      "Arsenic and Old Lace (1944)",
+      4.17,
+      {
+        "low": 672,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1214,
+        "high": 0
+      },
+      "Alien (1979)",
+      4.16,
+      {
+        "low": 2024,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1240,
+        "high": 0
+      },
+      "Terminator, The (1984)",
+      4.15,
+      {
+        "low": 2098,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 3147,
+        "high": 0
+      },
+      "Green Mile, The (1999)",
+      4.15,
+      {
+        "low": 1222,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1089,
+        "high": 0
+      },
+      "Reservoir Dogs (1992)",
+      4.14,
+      {
+        "low": 1259,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1200,
+        "high": 0
+      },
+      "Aliens (1986)",
+      4.13,
+      {
+        "low": 1820,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1036,
+        "high": 0
+      },
+      "Die Hard (1988)",
+      4.12,
+      {
+        "low": 1666,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 47,
+        "high": 0
+      },
+      "Seven (Se7en) (1995)",
+      4.11,
+      {
+        "low": 1137,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 293,
+        "high": 0
+      },
+      "Professional, The (a.k.a. Leon: The Professional) (1994)",
+      4.11,
+      {
+        "low": 923,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 457,
+        "high": 0
+      },
+      "Fugitive, The (1993)",
+      4.1,
+      {
+        "low": 1995,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1953,
+        "high": 0
+      },
+      "French Connection, The (1971)",
+      4.1,
+      {
+        "low": 861,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 933,
+        "high": 0
+      },
+      "To Catch a Thief (1955)",
+      4.1,
+      {
+        "low": 443,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 906,
+        "high": 0
+      },
+      "Gaslight (1944)",
+      4.1,
+      {
+        "low": 187,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 3334,
+        "high": 0
+      },
+      "Key Largo (1948)",
+      4.08,
+      {
+        "low": 461,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1086,
+        "high": 0
+      },
+      "Dial M for Murder (1954)",
+      4.08,
+      {
+        "low": 379,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 965,
+        "high": 0
+      },
+      "39 Steps, The (1935)",
+      4.08,
+      {
+        "low": 253,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 924,
+        "high": 0
+      },
+      "2001: A Space Odyssey (1968)",
+      4.07,
+      {
+        "low": 1716,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 589,
+        "high": 0
+      },
+      "Terminator 2: Judgment Day (1991)",
+      4.06,
+      {
+        "low": 2649,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1610,
+        "high": 0
+      },
+      "Hunt for Red October, The (1990)",
+      4.05,
+      {
+        "low": 1652,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1264,
+        "high": 0
+      },
+      "Diva (1981)",
+      4.05,
+      {
+        "low": 257,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 3849,
+        "high": 0
+      },
+      "Spiral Staircase, The (1946)",
+      4.05,
+      {
+        "low": 43,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2819,
+        "high": 0
+      },
+      "Three Days of the Condor (1975)",
+      4.04,
+      {
+        "low": 319,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2917,
+        "high": 0
+      },
+      "Body Heat (1981)",
+      4.03,
+      {
+        "low": 504,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 1249,
+        "high": 0
+      },
+      "Nikita (La Femme Nikita) (1990)",
+      4.01,
+      {
+        "low": 733,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  },
+  {
+    "keys": [
+      "movieId",
+      "title",
+      "averageRating",
+      "ratingsCount"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "low": 2206,
+        "high": 0
+      },
+      "Suspicion (1941)",
+      4.01,
+      {
+        "low": 167,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "movieId": 0,
+      "title": 1,
+      "averageRating": 2,
+      "ratingsCount": 3
+    }
+  }
+]

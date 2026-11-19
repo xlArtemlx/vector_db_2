@@ -1,0 +1,21 @@
+
+# MovieLens dataset
+/import/ml-1m/
+/import/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Local Neo4j data
+/neo4j_data/
+/neo4j_logs/
